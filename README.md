@@ -1,4 +1,4 @@
-# Simple Calendar App
+# Simple Calendar Application
 
 ## Overview
 
